@@ -1,2 +1,2 @@
-# screen-recorder
-This is a minimalistic screen recorder for windows
+# Screen Recorder
+This is a minimalistic screen recorder for windows written in python.
